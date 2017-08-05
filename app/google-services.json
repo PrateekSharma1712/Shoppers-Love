@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "82551612581",
+    "firebase_url": "https://shopping-lovers.firebaseio.com",
+    "project_id": "shopping-lovers",
+    "storage_bucket": "shopping-lovers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82551612581:android:fee828e70d5600f4",
+        "android_client_info": {
+          "package_name": "com.prateek.shopperslove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82551612581-j15tdsr0br9sbejvfktoc4ho1i92jgi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIfmgw1GzPlk6Vm2Efmi-5KvE8hvT_Dg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

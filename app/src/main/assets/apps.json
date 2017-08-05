@@ -1,0 +1,18 @@
+{
+  "apps" : [
+    {
+      "name":"Flipkart",
+      "id":"com.flipkart.android",
+      "website":"https://www.flipkart.com/",
+      "description":"A delightful shopping experience",
+      "logo":"gs://shopping-lovers.appspot.com/applogos/flipkart.png"
+    },
+    {
+      "name":"Amazon",
+      "id":"in.amazon.mShop.android.shopping",
+      "website":"http://www.amazon.in/",
+      "description":" Amazon Fashion for all occasions",
+      "logo":"gs://shopping-lovers.appspot.com/applogos/amazon.png"
+    }
+  ]
+}

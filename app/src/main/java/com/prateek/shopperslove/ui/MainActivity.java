@@ -1,7 +1,9 @@
-package com.prateek.shopperslove;
+package com.prateek.shopperslove.ui;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.prateek.shopperslove.R;
 
 public class MainActivity extends AppCompatActivity {
 
